@@ -62,6 +62,7 @@ mod error_response_formatter;
 mod examples;
 mod failure_mode;
 mod fips;
+mod guardrail_input_cap_repro;
 mod guardrails;
 mod harness;
 // Several replayed scenarios run examples backed by the SQLite response store.
